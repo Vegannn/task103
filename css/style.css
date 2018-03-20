@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  width: 2000px;
+}
+
+li {
+  list-style: none;
+  float: left;
+}
+
+#carousel {
+  margin: 0 auto;
+  overflow: hidden;
+  max-width: 400px;
+  max-height: 300px;
+}
+/*# sourceMappingURL=style.css.map */
